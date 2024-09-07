@@ -1,4 +1,4 @@
-# Bayesian Clicks Prediction using MCMC and Poisson Distribution
+# Ad Clicks Prediction using MCMC and Poisson Distribution
 
 This project implements Bayesian inference to predict the number of ad clicks per day based on historical data. The prediction model assumes a Poisson distribution for the number of clicks, with a Gamma prior on the Poisson rate parameter. Various Bayesian methods are used to estimate the posterior distribution and calculate credible intervals.
 
